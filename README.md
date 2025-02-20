@@ -9,3 +9,8 @@ This project uses a SENTIMENT ANALYSIS  dataset for training and testing the mod
 # Evaluation
 The model’s performance can be evaluated using metrics such as accuracy, precision, recall, and F1-score. After running the sentiment analysis script, you can evaluate the model on test data.
 After that i have  pickle the save model  and loaded the save model to see the positive and negative tweet by using if and else statement
+
+# The output will be one of the following labels:
+
+Positive
+Negative
