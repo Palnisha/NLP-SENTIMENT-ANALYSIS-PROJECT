@@ -5,7 +5,7 @@ This project performs sentiment analysis on text data to classify it as positive
 
 
 # Dataset
-You can download the sentiment analysis dataset from ![kaggle link](https://www.kaggle.com/datasets/kazanova/sentiment140).
+You can download the sentiment analysis dataset from [kaggle link](https://www.kaggle.com/datasets/kazanova/sentiment140).
 
 # Data
 This project uses a SENTIMENT ANALYSIS  dataset for training and testing the model. The dataset contains labeled text samples with sentiment annotations. providing a CSV file containing a text column and a LABLES column.
