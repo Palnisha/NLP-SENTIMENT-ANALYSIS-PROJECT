@@ -1,5 +1,17 @@
 # NLP SENTIMENT-ANALYSIS PROJECT
 
+*COMPANAY* : CODTECH IT SOLUTION 
+
+*NAME* : NISHA PAL
+
+*INTERN ID* : CT6WKRM
+
+*DOMAIN* : DATA ANALYST
+
+*DURATION* : 8 WEEKS
+
+*MENTOR* : NEELA SANTOSH
+
 # Overview
 This project performs sentiment analysis on text data to classify it as positive, negative, or neutral. It uses machine learning algorithms Logistic Regression to analyze textual data from various sources and determine the sentiment expressed in the text.
 
