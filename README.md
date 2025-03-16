@@ -31,3 +31,6 @@ After that i have  pickle the save model  and loaded the save model to see the p
 Positive
 
 Negative
+
+# output of this project
+![Image](https://github.com/user-attachments/assets/aa99b5fa-dc76-4b06-a62b-5977366cfa5a)
